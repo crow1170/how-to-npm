@@ -1,0 +1,23 @@
+{
+  "name": "@crow1170/how-to-npm",
+  "version": "1.0.0",
+  "description": "Package made for FreeCodeCamp challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crow1170/how-to-npm.git"
+  },
+  "keywords": [
+    "how-to-npm",
+    "freecodecamp"
+  ],
+  "author": "Christopher Knowles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crow1170/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/crow1170/how-to-npm#readme"
+}
