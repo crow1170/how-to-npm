@@ -4,7 +4,7 @@
   "description": "Package made for FreeCodeCamp challenge",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/crow1170/how-to-npm/issues"
   },
-  "homepage": "https://github.com/crow1170/how-to-npm#readme"
+  "homepage": "https://github.com/crow1170/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
